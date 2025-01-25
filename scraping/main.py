@@ -37,3 +37,4 @@ for page_num in range(1, 21):
     scrape_page(url, sheet)
 
 wb.save("output_data.xlsx")
+# :)
